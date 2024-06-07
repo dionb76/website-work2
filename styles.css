@@ -1,0 +1,169 @@
+.navbar{
+background-color: rgb(0, 0, 0);
+color: azure;
+text-align: center;
+position: fixed;
+bottom: 5px;
+margin-left: 180px;
+font-size: xx-large;
+font-weight: 300;
+}
+body{
+background-color: rgb(0, 0, 0);
+}
+h1{
+text-align: center;
+position: fixed;
+padding: 75px;
+background-color: rgb(0, 0, 0);
+font-size: 100px;
+color: rgb(95, 127, 167);
+}
+.navbar a{
+padding: 100px;
+text-decoration: none;
+color: rgb(95, 127, 167);
+}
+footer{
+position: fixed;
+bottom: 0px;
+margin-left: 840px;
+padding: 10px;
+background-color: rgb(95, 127, 167);
+}
+img{
+height: 400px;
+width: 635px;
+}
+.navbar a{
+    padding: 100px;
+    text-decoration: none;
+    color: rgb(95, 127, 167);
+    }
+.background-video{
+position: fixed;
+margin-right: 500px;
+}
+h2{
+text-align: center;
+font-size: 80px;
+color: rgb(95, 127, 167);
+}
+.myproduct{
+padding: 5px;
+color: rgb(95, 127, 167);
+text-align: center;
+}
+.myproduct p{
+font-size: x-large;
+text-align: center;
+}
+.myproduct h3{
+font-size: xx-large;
+text-align: center;
+}
+.myproduct img{
+width: 250px;
+}
+.myproduct2{
+padding: 5px;
+color: rgb(95, 127, 167);
+text-align: center;
+}
+.myproduct2 p{
+font-size: x-large;
+text-align: center;
+}
+.myproduct2 h4{
+font-size: xx-large;
+text-align: center;
+}
+.myproduct3{
+padding: 5px;
+color: rgb(95, 127, 167);
+text-align: center;
+}
+.myproduct3 h5{
+font-size: xx-large;
+text-align: center;
+}
+.myproduct3 p{
+font-size: x-large;
+text-align: center;
+}
+.product{
+padding: 5px;
+color: rgb(95, 127, 167);
+text-align: center;
+}
+.product h6{
+font-size: xx-large;
+text-align: center;
+}
+.product p{
+font-size: x-large;
+text-align: center;
+}
+.product2{
+padding: 5px;
+color: rgb(95, 127, 167);
+text-align: center;
+}
+.product2 h6{
+font-size: x-large;
+text-align: center;
+}
+.product2 p{
+font-size: x-large;
+text-align: center;
+}
+.product3{
+padding: 5px;
+color: rgb(95, 127, 167);
+text-align: center;
+}
+.product3 h6{
+font-size: x-large;
+text-align: center;
+}
+.product3 p{
+font-size: x-large;
+text-align: center;
+}
+table, th, td {
+border: 1px rgb(95, 127, 167);
+color: rgb(95, 127, 167);
+width: auto;
+height: auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    background-color: #fff9f9;
+  }
+  input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+form{
+text-align: center;
+color: rgb(95, 127, 167);
+}
+form label{
+font-size: xx-large;
+}
+p{
+color: rgb(95, 127, 167);
+font-size: x-large;
+text-align: center;
+}
